@@ -10,3 +10,6 @@
 [submodule "src/third_party/mbedtls"]
 	path = src/third_party/mbedtls
 	url = https://github.com/Mbed-TLS/mbedtls.git
+[submodule "src/ifx-mbedtls"]
+	path = src/ifx-mbedtls
+	url = https://github.com/Infineon/ifx-mbedtls.git
